@@ -521,3 +521,5 @@ No JS
 .no-js .cd-products-columns .check {
   display: none;
 }
+
+.cd-features-list ul li:before { content: "" }
